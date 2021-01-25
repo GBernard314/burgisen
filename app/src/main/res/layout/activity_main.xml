@@ -4,17 +4,67 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".HomeActivity">
+
+    <Button
+        android:id="@+id/buttonEntrees"
+        android:layout_width="122dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="292dp"
+        android:backgroundTint="@color/bkSalad"
+        android:text="@string/entreesButton"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.106" />
+
+    <ImageView
+        android:id="@+id/imageHome"
+        android:layout_width="409dp"
+        android:layout_height="90dp"
+        android:contentDescription="@string/burgerContent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/buttonEntrees"
+        app:layout_constraintStart_toStartOf="@+id/buttonEntrees"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.331"
+        app:srcCompat="@drawable/burger" />
+
+    <Button
+        android:id="@+id/buttonPlats"
+        android:layout_width="122dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="@color/bkTomato"
+        android:text="@string/platsButton"
+        app:layout_constraintEnd_toEndOf="@+id/buttonEntrees"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/buttonEntrees"
+        app:layout_constraintTop_toBottomOf="@+id/buttonEntrees" />
+
+    <Button
+        android:id="@+id/buttonDesserts"
+        android:layout_width="122dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="@color/bkPatty"
+        android:text="@string/dessertsButton"
+        app:layout_constraintEnd_toEndOf="@+id/buttonPlats"
+        app:layout_constraintStart_toStartOf="@+id/buttonPlats"
+        app:layout_constraintTop_toBottomOf="@+id/buttonPlats" />
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello There!\n General Kenobi"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.77"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.192" />
+        android:id="@+id/textView5"
+        android:layout_width="237dp"
+        android:layout_height="59dp"
+        android:fontFamily="@font/insanibc"
+        android:text="@string/titleMain"
+        android:textAlignment="center"
+        android:textColor="@color/bkTitle"
+        android:textSize="52sp"
+        app:layout_constraintEnd_toEndOf="@+id/imageHome"
+        app:layout_constraintStart_toStartOf="@+id/imageHome"
+        tools:layout_editor_absoluteY="65dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

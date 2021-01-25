@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidREstaurant</string>
+    <string name="entreesButton">Entrees</string>
+    <string name="platsButton">Plats</string>
+    <string name="dessertsButton">Desserts</string>
+    <string name="burgerContent">This is a cool burger</string>
+    <string name="buttonSides">Sides</string>
+    <string name="titleMain">Burgisen</string>
 </resources>
