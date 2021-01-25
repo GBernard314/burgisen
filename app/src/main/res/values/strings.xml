@@ -6,4 +6,6 @@
     <string name="burgerContent">This is a cool burger</string>
     <string name="buttonSides">Sides</string>
     <string name="titleMain">Burgisen</string>
+    <string name="bunBottomDesc">bunBottom</string>
+    <string name="bunTopDesc">bunTop</string>
 </resources>
