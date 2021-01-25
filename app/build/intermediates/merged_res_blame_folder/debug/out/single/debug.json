@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/drawable_burger_king_logo.xml.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/drawable/burger_king_logo.xml"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/font_insanibc.ttf.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/font/insanibc.ttf"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/drawable_bun_top.xml.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/drawable/bun_top.xml"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/drawable_ic_android_black_24dp.xml.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/drawable/ic_android_black_24dp.xml"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/drawable_burger.xml.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/drawable/burger.xml"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/drawable_bun_bottom.xml.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/drawable/bun_bottom.xml"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/azarog/AndroidStudioProjects/AndroidREstaurant/app/src/main/res/drawable/ic_launcher_background.xml"
+    }
+]

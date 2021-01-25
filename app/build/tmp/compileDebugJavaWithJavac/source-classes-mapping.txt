@@ -1,0 +1,2 @@
+fr/isen/bernard/androidrestaurant/BuildConfig.java
+ fr.isen.bernard.androidrestaurant.BuildConfig
