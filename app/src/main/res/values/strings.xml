@@ -8,4 +8,6 @@
     <string name="titleMain">Burgisen</string>
     <string name="bunBottomDesc">bunBottom</string>
     <string name="bunTopDesc">bunTop</string>
+    <string name="imgEntreesDesc">a good entree</string>
+    <string name="imgentreeDesc">this looks good</string>
 </resources>

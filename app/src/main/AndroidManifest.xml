@@ -9,9 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidREstaurant">
-        <activity android:name=".DessertsActivity"></activity>
+        <activity android:name=".EntreesActivity"></activity>
+        <activity android:name=".EntreeActivity" />
+        <activity android:name=".DessertsActivity" />
         <activity android:name=".PlatsActivity" />
-        <activity android:name=".EntreesActivity" />
         <activity android:name=".HomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

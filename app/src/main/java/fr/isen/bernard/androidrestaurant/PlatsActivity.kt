@@ -7,5 +7,7 @@ class PlatsActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_plats)
+        title = intent.getStringExtra("category")
+        setTitle(title)
     }
 }
