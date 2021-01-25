@@ -56,14 +56,24 @@
         app:layout_constraintTop_toBottomOf="@+id/buttonPlats" />
 
     <ImageView
-        android:id="@+id/imageView4"
+        android:id="@+id/topBun"
         android:layout_width="152dp"
         android:layout_height="241dp"
-        android:layout_marginTop="220dp"
+        android:layout_marginTop="216dp"
         app:layout_constraintEnd_toEndOf="@+id/buttonEntrees"
-        app:layout_constraintHorizontal_bias="0.533"
         app:layout_constraintStart_toStartOf="@+id/buttonEntrees"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/bun_top" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="154dp"
+        android:layout_height="222dp"
+        android:layout_marginBottom="32dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/buttonDesserts"
+        app:layout_constraintHorizontal_bias="0.468"
+        app:layout_constraintStart_toStartOf="@+id/buttonDesserts"
+        app:srcCompat="@drawable/bun_bottom" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
